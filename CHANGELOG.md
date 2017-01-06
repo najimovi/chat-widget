@@ -1,3 +1,27 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/najimovi/chat-widget/compare/v1.3.0...v1.4.0) (2017-01-06)
+
+
+### Bug Fixes
+
+* **bar:** this is another test again ([7507790](https://github.com/najimovi/chat-widget/commit/7507790))
+
+
+### Features
+
+* **bla:** another test ([05ebabc](https://github.com/najimovi/chat-widget/commit/05ebabc))
+
+
+### BREAKING CHANGES
+
+* bla: new library does not support foo-construct
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/watson-virtual-agents/chat-widget/compare/v1.2.20...v1.3.0) (2017-01-06)
 

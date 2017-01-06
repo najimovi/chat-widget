@@ -1,6 +1,6 @@
 {
   "name": "call-me-aishmael",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "CW Dummy Test",
   "homepage": "https://github.com/najimovi/chat-widget",
   "main": "dist/chat.js",

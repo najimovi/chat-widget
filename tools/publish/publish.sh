@@ -11,7 +11,7 @@
 # - remove auto detection of patch/minor/major/version release, force to enter manually?
 # - fix existing CHANGELOG.md to remove the title in the middle of it
 # - no tengo que crear branches nuevos para la version que usemos por nuestro gitflow? me parece que tengo que quitar/modificar varias cosas de la version actual
-
+#   - or could we just use standard-version from the version branch (eg v1.4.0)? hmmm not sure..
 
 
 

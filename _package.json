@@ -1,6 +1,6 @@
 {
   "name": "call-me-aishmael",
-  "version": "1.2.17",
+  "version": "1.2.16",
   "description": "CW Dummy Test",
   "homepage": "https://github.com/najimovi/chat-widget",
   "main": "dist/chat.js",
@@ -60,7 +60,6 @@
     "chai-as-promised": "6.0.0",
     "codecov": "1.0.1",
     "concurrently": "3.1.0",
-    "conventional-changelog": "^1.1.0",
     "conventional-changelog-cli": "1.2.0",
     "eslint": "3.0.0",
     "eslint-loader": "1.4.0",

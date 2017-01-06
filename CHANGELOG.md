@@ -1,3 +1,18 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/watson-virtual-agents/chat-widget/compare/v1.2.20...v1.3.0) (2017-01-06)
+
+
+### Bug Fixes
+
+* **bar:** this is another test ([d1f77bf](https://github.com/watson-virtual-agents/chat-widget/commit/d1f77bf))
+
+
+### Features
+
+* **foo:** this is a test ([01867c7](https://github.com/watson-virtual-agents/chat-widget/commit/01867c7))
+
+
+
 <a name="1.2.20"></a>
 ## [1.2.20](https://github.com/watson-virtual-agents/chat-widget/compare/v1.2.19...v1.2.20) (2017-01-06)
 

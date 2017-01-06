@@ -1,3 +1,8 @@
+<a name="1.2.20"></a>
+## [1.2.20](https://github.com/watson-virtual-agents/chat-widget/compare/v1.2.19...v1.2.20) (2017-01-06)
+
+
+
 <a name="1.2.19"></a>
 ## [1.2.19](https://github.com/watson-virtual-agents/chat-widget/compare/v1.2.18...v1.2.19) (2017-01-06)
 

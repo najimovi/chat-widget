@@ -2,8 +2,20 @@
 
 # NOTES
 # - based on https://gist.github.com/stevemao/280ef22ee861323993a0
-# - must first generate a token for conventional-github-releaser to work (https://github.com/conventional-changelog/conventional-github-releaser#setup-token-for-cli)
+# - must first generate a token for conventional-github-releaser to work and add it to ENV VAR (https://github.com/conventional-changelog/conventional-github-releaser#setup-token-for-cli)
 # - I also had to do 'npm adduser' once
+# - must add "conventional-changelog" and "conventional-changelog-cli" as dependencies I think
+# - should use something like https://github.com/iarna/in-publish? it seems simpler to just have a script that we run and gets this steps done without using prepublish and stuff...
+
+# TODO
+# - remove auto detection of patch/minor/major/version release, force to enter manually?
+# - fix existing CHANGELOG.md to remove the title in the middle of it
+# - no tengo que crear branches nuevos para la version que usemos por nuestro gitflow? me parece que tengo que quitar/modificar varias cosas de la version actual
+
+
+
+
+
 
 
 # npm publish with goodies
@@ -35,3 +47,9 @@
     conventional-github-releaser -p ${2:-$preset} &&
     npm publish
 # }
+
+a script which we can run locally, to complete these tasks
+- bump version in package.json (with the option to choose patch/minor/major)
+- update the CHANGELOG.md, commit it
+- npm publish
+- generate the corresponding GitHub release

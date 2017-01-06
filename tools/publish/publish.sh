@@ -1,6 +1,10 @@
 #!/bin/sh
 
-# based on https://gist.github.com/stevemao/280ef22ee861323993a0
+# NOTES
+# - based on https://gist.github.com/stevemao/280ef22ee861323993a0
+# - must first generate a token for conventional-github-releaser to work (https://github.com/conventional-changelog/conventional-github-releaser#setup-token-for-cli)
+
+
 
 # npm publish with goodies
 # prerequisites:

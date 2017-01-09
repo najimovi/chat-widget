@@ -1,6 +1,6 @@
 {
   "name": "call-me-aishmael",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "CW Dummy Test",
   "homepage": "https://github.com/najimovi/chat-widget",
   "main": "dist/chat.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "build": "webpack -production && webpack -minify -production -p --json > stats.json && jsdoc2md \"src/index.js\" > docs/JSDOCS.md",
     "codecov": "npm run test && (codecov || true)",
-    "changelog": "node ./node_modules/.bin/conventional-changelog -p angular -i CHANGELOG.md -s",
+    "changelog": "./release/generate_changelog.sh",
     "eslint": "eslint .",
     "jsdoc": "jsdoc -c ./tools/jsdoc/config.json",
     "release": "standard-version",
